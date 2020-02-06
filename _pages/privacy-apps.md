@@ -11,7 +11,7 @@ Ritterstr. 19<br/>
 33602 Bielefeld<br/>
 Germany<br/>
 Phone: +4952144815307<br/>
-E-Mail: positive.infinity.development@gmail.com
+E-Mail: [positive.infinity.development@gmail.com](positive.infinity.development@gmail.com)
 
 # General information
 This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Android apps.
