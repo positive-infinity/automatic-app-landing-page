@@ -13,7 +13,7 @@ Sebastian Niemann<br/>
 Ritterstr. 19<br/>
 33602 Bielefeld<br/>
 Telefon: +4952144815307<br/>
-E-Mail: [positive.infinity.development@gmail.com](positive.infinity.development@gmail.com)<br/>
+E-Mail: [positive.infinity.development@gmail.com](mailto:positive.infinity.development@gmail.com)<br/>
 Link zum Impressum: [Impressum](../impressum)<br/>
 
 # Arten der verarbeiteten Daten
