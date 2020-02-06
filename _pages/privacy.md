@@ -10,8 +10,8 @@ Diese Datenschutzerklärung klärt Sie über die Art, den Umfang und Zweck der V
 # Verantwortlicher
 POSITIVE INFINITY
 Sebastian Niemann
-Leopoldstraße 2-8
-32051 Herford
+Ritterstr. 19
+33602 Bielefeld
 Telefon: +4952144815307
 E-Mail: positive.infinity.development@gmail.com
 Link zum Impressum: Impressum

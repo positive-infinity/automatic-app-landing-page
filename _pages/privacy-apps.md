@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Privacy Policy
+title: App Privacy Policy
 include_in_header: false
 ---
 
 # Contact information
 POSITIVE INFINITY
 Sebastian Niemann
-Leopoldstraße 2-8
-32051 Herford
+Ritterstr. 19
+33602 Bielefeld
 Germany
 Phone: +4952144815307
 E-Mail: positive.infinity.development@gmail.com
