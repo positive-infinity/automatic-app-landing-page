@@ -14,7 +14,7 @@ Ritterstr. 19<br/>
 33602 Bielefeld<br/>
 Telefon: +4952144815307<br/>
 E-Mail: positive.infinity.development@gmail.com<br/>
-Link zum Impressum: Impressum<br/>
+Link zum Impressum: [Impressum](../impressum)<br/>
 
 # Arten der verarbeiteten Daten
 - Bestandsdaten (z.B., Personen-Stammdaten, Namen oder Adressen).
