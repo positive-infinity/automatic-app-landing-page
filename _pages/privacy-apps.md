@@ -5,12 +5,12 @@ include_in_header: false
 ---
 
 # Contact information
-POSITIVE INFINITY
-Sebastian Niemann
-Ritterstr. 19
-33602 Bielefeld
-Germany
-Phone: +4952144815307
+POSITIVE INFINITY<br/>
+Sebastian Niemann<br/>
+Ritterstr. 19<br/>
+33602 Bielefeld<br/>
+Germany<br/>
+Phone: +4952144815307<br/>
 E-Mail: positive.infinity.development@gmail.com
 
 # General information
