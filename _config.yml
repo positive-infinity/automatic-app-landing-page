@@ -21,7 +21,7 @@ enable_smart_app_banner                   : false                               
 # Information About Yourself
 your_name                                 : POSITIVE INFINITY                                
 your_link                                 : https://positive-infinity.github.io/ 
-your_city                                 :                                 
+your_city                                 : Bielefeld                                
 email_address                             : positive.infinity.development@gmail.com
 facebook_username                         : positive.infinity.apps                                          
 instagram_username                        : 
@@ -34,45 +34,41 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : GitHub Pages Jekyll Theme
-    description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
+  - title                                 : The right app for each use case
+    description                           : Find ATMs, toilets, gas stations, supermarkets, playgrounds and much more, each with its own dedicated app.
     fontawesome_icon_name                 : magic
     
-  - title                                 : iPhone Device Preview
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
-    fontawesome_icon_name                 : mobile
+  - title                                 : Nearby and anywhere in the world
+    description                           : Search next to your location or anywhere in the world by specifying an address, POI or a point on the map.
+    fontawesome_icon_name                 : map-marker
 
-  - title                                 : Video Support
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
-    fontawesome_icon_name                 : play-circle
+  - title                                 : List, Map & Details
+    description                           : Quickly overview locations by using the list or map view. Focus on one item in the details view.
+    fontawesome_icon_name                 : map
 
-  - title                                 : Automatic Icon and Metadata
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
+  - title                                 : Community driven
+    description                           : Hundreds of updates are worked in into the databases on each and every day.
     fontawesome_icon_name                 : sync
 
-  - title                                 : Easy to Tweak
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : adjust
-  
-  - title                                 : Feature List
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
+  - title                                 : Free
+    description                           : All the basic functionality is completely free. Go PRO for additional features and to support further development.
     fontawesome_icon_name                 : star
+  
+  - title                                 : Dark Mode
+    description                           : Configure your theming as you like. Use the device setting or force dark or light mode.
+    fontawesome_icon_name                 : adjust
 
-  - title                                 : Smart App Banner
-    description                           : Display a smart app banner on iOS devices.
-    fontawesome_icon_name                 : arrow-alt-circle-down
+  - title                                 : Navigation
+    description                           : Use Google Maps or various third-party navigation software to easiliy navigate to an item.
+    fontawesome_icon_name                 : directions
 
-  - title                                 : Social Links
-    description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : link
+  - title                                 : Support for tablets
+    description                           : The app works well on phones as well as on tablets or other large screen devices.
+    fontawesome_icon_name                 : tablet
 
-  - title                                 : FontAwesome Support
-    description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : info-circle
-
-  - title                                 : # New Feature Title
-    description                           : # New Feature Description
-    fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
+  - title                                 : Accessibility
+    description                           : Accessibility information is available for more and more apps.
+    fontawesome_icon_name                 : wheelchair
 
 
 
@@ -87,7 +83,7 @@ cover_overlay_transparency                : 0.8
 
 device_color                              : black                                     # Set to: blue, black, yellow, coral or white.
 
-body_background_color                     : "#ffffff"
+body_background_color                     : "#222222"
 
 link_color                                : "#d2241e"
 
@@ -95,8 +91,8 @@ app_title_color                           : "#ffffff"
 app_price_color                           : "#ffffff"
 app_description_color                     : "#ffffff"
 
-feature_title_color                       : "#000000"
-feature_text_color                        : "#666666"
+feature_title_color                       : "#ffffff"
+feature_text_color                        : "#bbbbbb"
 
 feature_icons_foreground_color            : "#d2241e"
 feature_icons_background_color            : "#e6e6e6"

@@ -2,6 +2,7 @@
 layout: page
 title: App Privacy Policy
 include_in_header: false
+permalink: /privacy-apps.html
 ---
 
 # Contact information
